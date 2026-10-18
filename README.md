@@ -10,13 +10,8 @@ This is a research and decision-support system. It is not a medical device, a
 clinical diagnosis tool, a personnel fitness assessment, or an automated
 disciplinary or duty-assignment system. Risk outputs require appropriate human
 context and review.
+
 <img width="415" height="908" alt="Screenshot 2026-09-29 200002" src="https://github.com/user-attachments/assets/2f34bc2f-a0bb-4d42-8109-723abc3a87c9" />  <img width="410" height="900" alt="Screenshot 2026-09-29 200025" src="https://github.com/user-attachments/assets/cd5a586f-8c2f-45af-bb33-34be39b54704" />   <img width="413" height="912" alt="Screenshot 2026-09-29 200037" src="https://github.com/user-attachments/assets/248fa99d-733a-446e-b8d9-1b32a9a65fcd" />   <img width="403" height="862" alt="Screenshot 2026-09-29 200125" src="https://github.com/user-attachments/assets/3fd0ddaf-b784-4ead-bc9c-51468ab5d107" />  <img width="412" height="903" alt="Screenshot 2026-09-29 200143" src="https://github.com/user-attachments/assets/7e0c58bb-0010-4f13-9b79-36d6d26e74e6" />   <img width="408" height="887" alt="Screenshot 2026-09-29 200209" src="https://github.com/user-attachments/assets/d2b389fe-b534-479c-9d3e-16dc0ca85ce4" />  <img width="410" height="873" alt="Screenshot 2026-09-29 200230" src="https://github.com/user-attachments/assets/50b995bf-9b96-487e-add0-4d9c1f9d2f0c" />   <img width="402" height="875" alt="Screenshot 2026-09-29 200332" src="https://github.com/user-attachments/assets/6c594dbc-cf15-4eb0-9232-ed27833e5c68" />  <img width="410" height="891" alt="Screenshot 2026-09-29 200414" src="https://github.com/user-attachments/assets/a5a79509-0fb7-4e3e-8c51-f118a04faa08" />  
-
-
-
-
-
-
 
 
 
